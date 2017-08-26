@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib
+END
+jsr311-api-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar
+END
+ojdbc14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib/ojdbc14.jar
+END
+jersey-servlet-1.19.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib/jersey-servlet-1.19.1.jar
+END
+genson-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib/genson-1.4.jar
+END
+jersey-server-1.19.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib/jersey-server-1.19.1.jar
+END
+jersey-core-1.19.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib/jersey-core-1.19.1.jar
+END
+jettison-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib/jettison-1.1.jar
+END
+jersey-json-1.19.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib/jersey-json-1.19.1.jar
+END
+jersey-client-1.19.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CHN16/!svn/ver/4726/M93/CMS%20Project%20MJA93/CMS_RestfullWebServiceProject/WebContent/WEB-INF/lib/jersey-client-1.19.1.jar
+END
