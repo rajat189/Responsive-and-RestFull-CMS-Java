@@ -8,6 +8,10 @@ Many organizations provide canteen facility to its employees, but proper managem
 The existing system maintains the records manually. List of food item, rates etc are recorderd manually. Person needs to manually visit the canteen counter and place the order.
 The bill details of the person are stored in the billing register and person can pay daily/weekly/monthly. Once the bill is paid by the person, PAID is mentioned in the register and person needs to sign against it.
 
+**Proposed System**
+
+In old system every task was done manually which takes lot of time and lack accuracy too. But through computerized system this need is reduced, as computerized system is fast one. The aim of proposed system is to develop a system of improved facilities. The proposed system can over come all the limitations of the existing system. The system provides proper security and reduces the manual work.
+
 o	Ensure data accuracy’s.
 
 o	Minimize manual data entry.
